@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.amrdeveloper:reactbutton:2.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9469544669ecfde72be3104cdb8df70/transformed/jetified-reactbutton-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9469544669ecfde72be3104cdb8df70/transformed/jetified-reactbutton-2.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9469544669ecfde72be3104cdb8df70/transformed/jetified-reactbutton-2.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.amrdeveloper/reactbutton/2.0.3/fe7bbb94c784ef4c414d6f393bc65f7f14e82176/reactbutton-2.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.amrdeveloper/reactbutton/2.0.3/d5544130145f4b45bec13964fb8cacd99dca75a0/reactbutton-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
